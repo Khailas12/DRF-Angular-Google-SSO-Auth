@@ -4,7 +4,6 @@ from rest_framework.response import Response
 from google.auth.transport import requests
 from google.oauth2 import id_token
 import os
-from rest_framework import status, response
 
 load_dotenv()
 
